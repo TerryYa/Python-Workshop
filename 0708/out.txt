@@ -1,0 +1,8 @@
+Robot: "Hi, What's your name?"
+You: Robot: "Hello, serkan."
+You: Robot: "THX, but I don't know what do you mean, please ask me "What day is it?"
+You: Robot: "THX, but I don't know what do you mean, please ask me "What day is it?"
+You: Robot: "THX, but I don't know what do you mean, please ask me "What day is it?"
+You: Robot: "Today is Friday."
+
+
