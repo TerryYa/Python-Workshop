@@ -1,9 +1,8 @@
 import os
 
-members = [
-    'Mehtab Khalil', 'Akeem Peters', 'Tyler Eck', '蕭芯儀', '劉沛妮', '黃柊森', 'Astrid Adhipurusa', '黃瀅芳', '陳冠銘', '方傑', 'Sasa Tarzn', 'Jason Yeh', '熊亭媛', 'Leon Wang', '何昀軒', '王津峰', 'Ly Shen', '譚宇翔']
+members = []
 
-black_list = ['img', 'oj', 'src']
+black_list = ['img', 'src']
 
 for path in os.listdir(f'.'):
     if os.path.isdir(path) and (path not in black_list):
