@@ -2,7 +2,7 @@ $folder = $args[0]
 $date = $args[0].Split('\')[1]
 
 If ($args.Length -lt 2){
-    echo "Error! Please follow the format:`n judge.ps1 [path_to_file] [number_of_question]"
+    echo "Error! Please follow the format:`n judge.ps1 [path_of_file] [number_of_question]"
     exit(-1)
 }
 
